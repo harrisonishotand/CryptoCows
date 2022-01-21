@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe4070b7cbc065e669faf71af7633c0180e9ea755",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe4070b7cbc065e669faf71af7633c0180e9ea755",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137 
+  },
+  "NFT_NAME": "Crypto Cows",
+  "SYMBOL": "C_C",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thecryptocows",
+  "SHOW_BACKGROUND": true
+}
